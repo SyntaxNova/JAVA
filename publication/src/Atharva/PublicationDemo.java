@@ -1,4 +1,4 @@
-package Atharva;
+it package Atharva;
 import java.util.Scanner;
 public class PublicationDemo {
 
