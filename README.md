@@ -1,8 +1,8 @@
-<b>Complex Number</b> : <p>Design a class ‘Complex ‘with data members for real and imaginary part. Provide default and
+<a href="https://github.com/SyntaxNova/OOPS_JAVA/tree/master/Complex1"><b>Complex Number</b></a> : <p>Design a class ‘Complex ‘with data members for real and imaginary part. Provide default and
 Parameterized constructors. Write a program to perform arithmetic operations of two complex
 numbers.</p>
 <br>
-<b>Publications (Polymorphism)</b> : <p>Identify commonalities and differences between Publication, Book and Magazine classes. Title,
+<a href="https://github.com/SyntaxNova/OOPS_JAVA/tree/master/Publications"><b>Publications (Polymorphism)</b></a> : <p>Identify commonalities and differences between Publication, Book and Magazine classes. Title,
 Price, Copies are common instance variables and saleCopy is common method. The differences
 are, Bookclass has author and orderCopies(). Magazine Class has methods orderQty, Current issue,
 receiveissue().Write a program to find how many copies of the given books are ordered and
@@ -14,24 +14,24 @@ Manager and Project Manager from employee class. Add Basic Pay (BP) as the membe
 inherited classes with 97% of BP as DA, 10 % of BP as HRA, 12% of BP as PF, 0.1% of BP for staff
 club fund. Generate pay slips for the employees with their gross and net salary.</p>
 <br>
-<b>Dynamic Binding</b> : <p>Design a base class shape with two double type values and member functions to input the data
+<a href = "https://github.com/SyntaxNova/OOPS_JAVA/tree/master/DynamicB"><b>Dynamic Binding</b></a> : <p>Design a base class shape with two double type values and member functions to input the data
 and compute_area() for calculating area of shape. Derive two classes: triangle and rectangle. Make
 compute_area() as abstract function and redefine this function in the derived class to suit their
 requirements. Write a program that accepts dimensions of triangle/rectangle and display
 calculated area. Implement dynamic binding for given case study.</p>
 <br>
-<b>Interface</b> : <p>Design and develop a context for given case study and implement an interface for Vehicles
+<a href = "https://github.com/SyntaxNova/OOPS_JAVA/tree/master/Interface1"><b>Interface</b></a> : <p>Design and develop a context for given case study and implement an interface for Vehicles
 Consider the example of vehicles like bicycle, car and bike. All Vehicles have common
 functionalities such as Gear Change, Speed up and apply breaks. Make an interface and put all
 these common functionalities. Bicycle, Bike, Car classes should be implemented for all these
 functionalities in their own class in their own way.</p>
 <br>
-<b>Exception handling</b> : <p>Implement a program to handle Arithmetic exception, Array Index Out of Bounds. The user enters
+<a href="https://github.com/SyntaxNova/OOPS_JAVA/tree/master/ExceptionH"><b>Exception handling</b></a> : <p>Implement a program to handle Arithmetic exception, Array Index Out of Bounds. The user enters
 two numbers Num1 and Num2. The division of Num1 and Num2 is displayed. If Num1 and Num2
 are not integers, the program would throw a Number Format Exception. If Num2 were zero, the
 program would throw an Arithmetic Exception. Display the exception.</p>
 <br>
-<b>Template</b> : <p>Implement a generic program using any collection class to count the number of elements in a
+<a href= "https://github.com/SyntaxNova/OOPS_JAVA/tree/master/Template"><b>Template</b></a> : <p>Implement a generic program using any collection class to count the number of elements in a
 collection that have a specific property such as even numbers, odd number, prime number and
 palindromes.</p>
 <br>
