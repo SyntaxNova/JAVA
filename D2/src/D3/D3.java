@@ -4,7 +4,7 @@ public class D3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner scanner = new Scanner(System.in);
+		/*Scanner scanner = new Scanner(System.in);
 		System.out.print("Enter a number : ");
 		int n = scanner.nextInt();
 		
@@ -26,6 +26,26 @@ public class D3 {
 		}else {
 			System.out.print("a is smaller than b ");
 		}
+		switch conditional statement
+		*/
+		for(int i = 0 ; i <=10 ; i++) {
+			System.out.print(i+" ");
+		}
+		System.out.println(" ");
+		
+		int w = 0;
+		while(w<=10) {
+			System.out.print(w+" ");
+			w++;
+		}
+		
+		System.out.println(" ");
+		int d = 0 ;
+		do {
+			System.out.print(d+" ");
+			d++;
+		}while(d<=10);
+		
 	}
 
 }
