@@ -35,9 +35,9 @@ public class RecursionAdvanceProblems {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-//		String a = "abc";
-//		String permut = "";
-//		Permutation(a,permut);
+		String a = "abc";
+		String permut = "";
+		Permutation(a,permut);
 		
 		int n = 3 ;
 		int m = 3 ;
